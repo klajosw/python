@@ -4,10 +4,10 @@
 
 
 
-https://raw.githubusercontent.com/klajosw/python/master/kl_mie_python_logo_250.jpg
-
 ## Topik: 
 Python data analyst, integration, migration, quality, AI, reporting 
+
+
 ### Data analyst
 Regressio... Lineal ...
 
