@@ -12,8 +12,10 @@ Python data analyst, integration, migration, quality, AI, reporting
 Regressio... Lineal ...
 
 
-Blog : https://klajosw.blogspot.com/
+Blog      : https://klajosw.blogspot.com/
 
-More info: https://klajosw.github.io/python
+More info : https://klajosw.github.io/python
 
 Owner info : https://sites.google.com/site/klajosw
+
+MS learn   : https://docs.microsoft.com/hu-hu/users/lajoskecskemti-4995/achievements
