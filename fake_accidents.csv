@@ -1,0 +1,11 @@
+day,state,accidents,fines
+1,New York,75,1150
+1,Ohio,42,
+2,New York,58,775
+3,New York,71,899
+3,Ohio,11,172
+4,Ohio,41,349
+4,New York,51,701
+5,Ohio,,300
+5,New York,62,819
+6,New York,67,850
