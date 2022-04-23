@@ -20,6 +20,7 @@ Owner info : https://sites.google.com/site/klajosw
 
 MS learn   : https://docs.microsoft.com/hu-hu/users/lajoskecskemti-4995/achievements
 
+# Python learning
 
 ## Table of Contents
 - [Ultimate-Python-Resource-Hub](#Ultimate-Python-Resource-Hub) 
@@ -49,10 +50,7 @@ MS learn   : https://docs.microsoft.com/hu-hu/users/lajoskecskemti-4995/achievem
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Connect with me](#connect-with-me)
 
-## Requirements
-Have Python 3.7 or newer installed. You can check the version by typing `python3 --version` in your command line. You can [download the latest Python version from here](https://www.python.org/downloads/).
 
-- - -
 
 ## Coding Practice Playground for Python
 - [Advent of Code](https://adventofcode.com/)
@@ -96,6 +94,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [spoj](https://www.spoj.com/)
 - [urionlinejudge](https://www.urionlinejudge.com.br/)
 
+
 ## Free Hosting Platforms for Python
 - [AWS](https://aws.amazon.com/)
 - [FastComet](https://www.fastcomet.com/)
@@ -104,6 +103,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [NodeChef](https://www.nodechef.com/)
 - [PythonAnywhere](https://www.pythonanywhere.com/?affiliate_id=0048f655)
 - [Render](https://render.com/)
+
 
 ## Python Books
 - [A byte of Python](https://python.swaroopch.com/) by Swaroop
@@ -119,10 +119,14 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Python Tricks by Dan Bader
 - Think Python
 
+
+
 ## Python Community and Groups
 - [PySlackers](https://pyslackers.com/)
 - [Python Discord Server](https://discord.com/invite/python)
 - [r/Python](https://www.reddit.com/r/Python/)
+
+
 
 ## Python Courses-Video Tutorials
 - [Automate the Boring Stuff with Python Programming](https://www.udemy.com/course/automate/)
@@ -141,8 +145,12 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [The Python Bible (Udemy)](https://www.udemy.com/course/the-python-bible/)
 - [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
 
+
+
 ## Python Devs to Follow on Twitter
 - [Justin Mitchel](https://twitter.com/JustinMitchel)
+
+
 
 ## Python Github Repositories  
 - [30 Days of Python](https://github.com/codingforentrepreneurs/30-Days-of-Python)
@@ -160,6 +168,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [The Algorithms](https://github.com/TheAlgorithms/Python)
 - [Hackerrank_Python](https://github.com/Kushal997-das/Hackerrank)
 
+
+
 ## Python IDEs
 - [Atom](https://atom.io/)
 - [GNU Emacs](https://www.gnu.org/software/emacs/download.html)
@@ -173,6 +183,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [Wing](https://wingware.com/downloads)
 - [Anaconda](https://www.anaconda.com/products/individual)
+
+
 
 ## Python Libraries for GUI Development:
 - curses
@@ -195,10 +207,12 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - FastAPI
 - Pyramid
 
+
 ## Python Libraries for Game Development:
 - Pygame
 - PyOpenGL
 - Pyglet
+
 
 ## Python Libraries for Data Science:
 - TensorFlow
@@ -209,6 +223,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Seaborn
 - StatsModels
 
+
 ## Python Mobile Applications:
 - [DataCamp](https://play.google.com/store/apps/details?id=com-datacamp)
 - [Programiz](https://play.google.com/store/apps/details?id=com-programiz-learnpython)
@@ -218,6 +233,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)
 - [Programming Hub](https://play.google.com/store/apps/details?id=com.freeit.java)
 - [Unacademy Learning App](https://play.google.com/store/apps/details?id=com.unacademyapp)
+
 
 
 ## Python Newsletters:
@@ -234,6 +250,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Python Weekly](https://www.pythonweekly.com/)
 - [The Real Python Newsletter](https://realpython.com/newsletter/)
  
+ 
+ 
 ## Python Podcasts:
 - [Django Chat](https://djangochat.com/)
 - [from python import podcast](https://www.frompythonimportpodcast.com/)
@@ -245,6 +263,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Teaching Python](https://www.teachingpython.fm/)
 - [Test & Code](https://testandcode.com/)
 - [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
+ 
+ 
  
 ## Python Websites
 - [ Codecademy](https://www-codecademy-com/) 
@@ -264,6 +284,10 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Full Stack Python](https://www.fullstackpython.com/)
 - [Real Python](https://realpython.com/)
 - [Holy Python](https://holypython.com/)
+- [exercises](https://www.w3resource.com/python-exercises/pandas/style/index.php)
+- [pythonninja](https://zetcode.com/python/jinja/)
+- [Test](https://www.hackerrank.com/domains/python)
+
 
 ## Python YouTube channels
 - [Amulya's Academy](https://www-youtube-com/channel/UCIgXF0FrYJL0a6sMsRIsLvA)
@@ -281,14 +305,25 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Real Python](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 
 
+
+
 ## Technical Blogging Platforms
 - [Dev.to](https://dev.to/)
 - [Hashnode](https://hashnode.com/)
 - [Medium](https://medium.com/)
 
+
+
 ## Data Structures and Algorithms
 -  [freecodecamp.org](https://medium.freecodecamp.org/i-built-an-app-that-makes-learning-algorithms-and-data-structures-way-more-fun-46fbb8afacaf)
 -  [ideserve]( http://www.ideserve.co.in/)
-
-
 -  [data-structures-and-algorithms-in-python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513) <br>
+
+
+## HU oktatás (magyarul)
+- [Magyar gyakorlás] (https://okt.sed.hu/python-programozas/gyakorlat/gyak1/)
+- [Magyar video](https://youtu.be/dM4zrfKbU2Y)
+- [Rendszam felismeres](https://github.com/silver0550/Rendszam-felismeres)
+
+
+
